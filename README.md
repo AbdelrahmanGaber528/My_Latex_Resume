@@ -156,7 +156,7 @@
   \resumeSubHeadingListStart
 
     \resumeProjectHeading
-        {\textbf{BMW Classification -- Production Pipeline} $|$ \emph{Python, scikit-learn, MLOps, Streamlit}}{Aug. 2025 -- Sep. 2025}
+        {\textbf{Production Pipeline - Classification} $|$ \emph{Python, scikit-learn, MLOps, Streamlit}}{Aug. 2025 -- Sep. 2025}
         \resumeItemListStart
           \resumeItem{Built an end-to-end pipeline processing \textbf{50,000+ BMW vehicle records} with 10 features each.}
           \resumeItem{Achieved \textbf{98\% classification accuracy} on test data using ensemble models.}
@@ -181,9 +181,9 @@
 \section{Skills}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
-     \textbf{Programming Languages}{: Python, Java, C, C++, HTML, CSS} \\
+     \textbf{Programming Languages}{: Python, Java, C, C++, Js} \\
 
-     \textbf{Principles}{: Data Structures, OOP, SOLID, Clean Architecture} \\
+     \textbf{Principles}{: OOP, SOLID, Problem Solving Principles, Clean Architecture} \\
 
      \textbf{Databases}{: MySQL, Oracle} \\
 
@@ -198,7 +198,7 @@
      \textbf{DevOps \& Systems}{: Git, GitHub, Streamlit, Linux (Void, Ubuntu, NixOS)} \\
 
      \textbf{Tools}{: Vim, VS Code, Colab, Jupyter, PyCharm}\\
-    \textbf{Soft Skills}{: Problem Solving, Teamwork, Communication, Adaptability, Critical Thinking, Attention to Details}
+    \textbf{Soft Skills}{: Teamwork, Communication, Adaptability, Critical Thinking, Attention to Details}
     }}
  \end{itemize}
  
@@ -217,5 +217,6 @@
 
 %-------------------------------------------
 \end{document}
+
 
 ```
